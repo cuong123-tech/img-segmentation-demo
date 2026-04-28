@@ -1,4 +1,4 @@
-# 4-5 Hour Interview Implementation Plan (RTX 4090)
+# Implementation Plan 
 
 ## Goal
 Deliver a clean, demo-first repository that can:
@@ -72,8 +72,4 @@ Exit criteria:
 - **Noisy mesh artifacts** -> threshold and increase smoothing iterations.
 - **Time overrun** -> skip advanced metrics first; secure end-to-end demo before extras.
 
-## What Interviewers Usually Care About
-- End-to-end execution under constraints.
-- Correct handling of medical volume preprocessing (spacing/intensity).
-- Geometric post-processing for AR/3D visualization use cases.
-- Clear communication of trade-offs and next improvements.
+
